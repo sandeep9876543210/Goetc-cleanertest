@@ -5,6 +5,7 @@ import 'package:provider/provider.dart';
 import 'screen/splashscreen.dart';
 
 void main() {
+  //hello Github 
   WidgetsFlutterBinding.ensureInitialized();
   // await Firebase.initializeApp();
   runApp(MultiProvider(
